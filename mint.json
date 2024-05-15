@@ -63,6 +63,15 @@
           ]
       },
       {
+        "group": "Develop",
+        "pages": [
+            "develop/oak.js",
+            "develop/pallet-development",
+            "develop/graphql-api",
+            "develop/benchmarking"
+        ]
+      },
+      {
           "group": "Essentials",
           "pages": [
               "essentials/markdown",
